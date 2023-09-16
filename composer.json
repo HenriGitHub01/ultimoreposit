@@ -1,0 +1,16 @@
+{
+    "name": "55119/backendphp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henrique Pereira",
+            "email": "henribatmam@gmail.com"
+        }
+    ],
+    "require": {}
+}
